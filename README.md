@@ -6,7 +6,7 @@ Foi gerado um código que faz a validação pela quantidade de dígitos, e ident
 
 ## Prompt
 
-Desenvolva um algorítmo para validar e identificar a Bandeira do Cartão de crédito.
+Desenvolva um algoritmo para validar e identificar a Bandeira do Cartão de crédito.
 
 ## Resposta
 
